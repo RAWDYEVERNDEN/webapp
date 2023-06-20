@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_783883_webapp.webapp_admin" name="x_783883_webapp.webapp_admin">a6f341ed9723211089727d100153af10</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 08:33:02</sys_created_on>
+        <sys_id>f2f30d619763211089727d100153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a6f341ed9723211089727d100153af10</sys_name>
+        <sys_package display_value="webapp" source="x_783883_webapp">56e38ded9723211089727d100153afd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="webapp">56e38ded9723211089727d100153afd6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f2f30d619763211089727d100153afc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 08:33:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
